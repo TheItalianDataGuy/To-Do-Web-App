@@ -10,7 +10,7 @@ def add_todo():
     functions.write_todos(todos)
 
 
-st.image(image=r"C:\Users\andre\OneDrive\Desktop\png.jpg",
+st.image(image=r"C:\Users\andre\PycharmProjects\web_app\pythonProject\png.jpg",
          width=100)
 st.title("My To-Do app")
 st.subheader("This is my To-Do app.")
